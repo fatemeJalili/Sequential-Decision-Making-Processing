@@ -1,6 +1,6 @@
 # Sequential-Decision-Making-Processing
 This repository contains the code and documentation for the Sequential Decision Making Processing course projects, including MDP-based optimization and reinforcement learning assignments. 
----
+
 
 ## Part 1 — Minimizing Age of Information (Optimal Cache Updating Policy)
 **Language: MATLAB**
@@ -31,7 +31,7 @@ This repository contains the code and documentation for the Sequential Decision 
 - For **q = 0.2** (correlated channel): different thresholds per channel state r, λ* = 0.60.
 - For **q = 0.5** (memoryless channel): identical thresholds across channel states, λ* = 1.00.
 
----
+
 
 ## Part 2 — Reinforcement Learning for NOMA Resource Scheduling
 **Language: Python (PyTorch)**
