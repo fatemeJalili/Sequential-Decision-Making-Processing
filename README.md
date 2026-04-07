@@ -49,7 +49,7 @@ This repository contains the code and documentation for the Sequential Decision 
 - Both algorithms converge to the optimal value function and deterministic policy via the **Bellman optimality equation**.
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/398f0d25-e4a5-43b8-98bb-d0ed8811d792" height="220">
+    <img src="https://github.com/user-attachments/assets/bd047811-e726-48d4-b6c0-1bb4ef148571" height="220">
     <img src="https://github.com/user-attachments/assets/aa06c6b8-0b3f-4f25-b015-7f2cb3c3ef9c" height="220">
   </div>
 
@@ -57,14 +57,14 @@ This repository contains the code and documentation for the Sequential Decision 
 - Implemented **model-free tabular Q-Learning** with **ε-greedy exploration** and optimistic initialization.
 - Tracks percentage of unvisited state-action pairs to monitor exploration coverage.
 
-  <img src="IMAGE_LINK_conv_q_learning" height="260">
+  <img src="https://github.com/user-attachments/assets/6b3fbb2f-895e-41ca-879d-6c139271d6b9" height="260">
 
 #### Deep Q-Learning (DQN)
 - Implemented a **Deep Q-Network** with fully-connected layers and ReLU activations (PyTorch).
 - Uses an **experience replay buffer** and a separate **target network** updated periodically to stabilize training.
 - Supports both **MSE** and **Huber** loss functions; ε decays over episodes.
-
-  <img src="IMAGE_LINK_conv_deep_q_learning" height="260">
+- 
+  <img src="https://github.com/user-attachments/assets/aa044f44-08ff-4a2f-b4ab-1422b4aa7bc0" height="260">
 python main.py D
 ```
 
