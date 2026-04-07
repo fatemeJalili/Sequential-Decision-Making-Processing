@@ -42,15 +42,15 @@ This repository contains the code and documentation for the Sequential Decision 
 - Joint action space: per-user decisions to **communicate** or remain **idle**.
 - Reward is based on packet delivery throughput, penalized for **infeasible actions** (insufficient buffer, battery, or SNR).
 
-  <img src="IMAGE_LINK_system_model" height="250">
+  <img src="https://github.com/user-attachments/assets/9b6b9b8a-ddea-454a-bca9-efeb199a5417" height="250">
 
 #### Value Iteration & Policy Iteration
 - Implemented classical **Dynamic Programming** methods requiring full knowledge of the transition and reward models.
 - Both algorithms converge to the optimal value function and deterministic policy via the **Bellman optimality equation**.
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="IMAGE_LINK_conv_value_iteration" height="220">
-    <img src="IMAGE_LINK_conv_policy_iteration" height="220">
+    <img src="https://github.com/user-attachments/assets/398f0d25-e4a5-43b8-98bb-d0ed8811d792" height="220">
+    <img src="https://github.com/user-attachments/assets/aa06c6b8-0b3f-4f25-b015-7f2cb3c3ef9c" height="220">
   </div>
 
 #### Q-Learning
