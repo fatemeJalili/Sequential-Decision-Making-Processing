@@ -65,16 +65,6 @@ This repository contains the code and documentation for the Sequential Decision 
 - Supports both **MSE** and **Huber** loss functions; ε decays over episodes.
 
   <img src="IMAGE_LINK_conv_deep_q_learning" height="260">
-
-#### Installation & Usage
-```bash
-pip install -r requirements.txt
-```
-```bash
-# Choose agent: V (Value Iteration) | P (Policy Iteration) | Q (Q-Learning) | D (Deep Q-Learning)
-python main.py V
-python main.py P
-python main.py Q
 python main.py D
 ```
 
