@@ -20,7 +20,7 @@ This repository contains the code and documentation for the Sequential Decision 
 #### Per-file Lagrangian Costs J_n(λ)
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/015c6f21-f0ad-4eee-8aca-6e3eb242bd2b" height="200">
+    <img src="https://github.com/user-attachments/assets/887cebd0-ea91-4f7f-917a-1a25de28cb70" height="200">
     <img src="https://github.com/user-attachments/assets/afe338a7-8efd-45c2-989c-821cb2b95fd6" height="200">
   </div>
 
