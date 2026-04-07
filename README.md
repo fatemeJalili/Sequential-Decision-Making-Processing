@@ -15,13 +15,14 @@ This repository contains the code and documentation for the Sequential Decision 
 - Solved each per-file problem as a **Linear Program (LP)** over state-action frequencies v(f, x, a).
 - Computed the **dual function g(λ) = Σ J_n(λ) − λM** and maximized it over λ to recover the globally optimal policy.
 
-  <img src="IMAGE_LINK_g_lambda" height="300">
-
+  <img src="https://github.com/user-attachments/assets/389d8a88-1c21-41d2-aa46-92184ee1b20b" height="300">
+  
 #### Per-file Lagrangian Costs J_n(λ)
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="IMAGE_LINK_Jn_q02" height="220">
-    <img src="IMAGE_LINK_Jn_q05" height="220">
+
+    <img src="https://github.com/user-attachments/assets/015c6f21-f0ad-4eee-8aca-6e3eb242bd2b" height="220">
+    <img src="https://github.com/user-attachments/assets/afe338a7-8efd-45c2-989c-821cb2b95fd6" height="220">
   </div>
 
 #### Threshold Policy & Analysis
