@@ -63,6 +63,6 @@ This repository contains the code and documentation for the Sequential Decision 
 - Implemented a **Deep Q-Network** with fully-connected layers and ReLU activations (PyTorch).
 - Uses an **experience replay buffer** and a separate **target network** updated periodically to stabilize training.
 - Supports both **MSE** and **Huber** loss functions; ε decays over episodes.
-- 
+
   <img src="https://github.com/user-attachments/assets/aa044f44-08ff-4a2f-b4ab-1422b4aa7bc0" height="260">
 
