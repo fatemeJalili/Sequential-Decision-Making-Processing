@@ -65,6 +65,4 @@ This repository contains the code and documentation for the Sequential Decision 
 - Supports both **MSE** and **Huber** loss functions; ε decays over episodes.
 - 
   <img src="https://github.com/user-attachments/assets/aa044f44-08ff-4a2f-b4ab-1422b4aa7bc0" height="260">
-python main.py D
-```
 
