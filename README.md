@@ -19,8 +19,10 @@ This repository contains the code and documentation for the Sequential Decision 
   
 #### Per-file Lagrangian Costs J_n(λ)
 
-    <img src="https://github.com/user-attachments/assets/015c6f21-f0ad-4eee-8aca-6e3eb242bd2b" height="220">
-    <img src="https://github.com/user-attachments/assets/afe338a7-8efd-45c2-989c-821cb2b95fd6" height="220">
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/015c6f21-f0ad-4eee-8aca-6e3eb242bd2b" height="200">
+    <img src="https://github.com/user-attachments/assets/afe338a7-8efd-45c2-989c-821cb2b95fd6" height="200">
+  </div>
 
 #### Threshold Policy & Analysis
 - Proved that the optimal stationary policy has a **threshold structure**: update file n if and only if its AoI exceeds a state-dependent threshold τ_r.
